@@ -1,0 +1,63 @@
+******** Log start (2019-10-03 21:19:39) ********
+
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:0 :: 1 :: PolyScope 3.3.4.310 (Dec 06 2016) s/n: 2014359999 ::  :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Failed to activate real robot :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Disconnected from Controller :: null
+0000d00h00m00.000s :: 2019-10-03 21:19:42.000 :: -5 :: C0A0:7 :: 1 ::  :: Connected to Controller :: null
+******** Log end (2019-10-03 21:20:27) ********
+
