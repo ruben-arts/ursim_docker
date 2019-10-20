@@ -40,6 +40,6 @@ docker run -p 30001:30001 -p 30002:30002 -p 30003:30003 ur-sim-docker-ur3-no-gui
 ```
 The simulator itself is made by [Universal Robots&copy;](https://www.universal-robots.com/)
 
-The simulator will not run the gui. if it locks 
+The simulator will not run the gui. 
 
 
